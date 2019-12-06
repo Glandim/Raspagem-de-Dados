@@ -5,5 +5,8 @@ A Pesquisa Internacional sobre Ensino e Aprendizagem (Talis), tradução de Teac
 
 A Talis é uma pesquisa direta, baseada na percepção do entrevistado. Por meio de questionários específicos para professores e diretores, ela busca saber as percepções desses dois atores sobre alguns temas relacionados ao ambiente educacional: clima escolar, desenvolvimento profissional, liderança escolar, gestão, entre outros.
 
+
+
 ![](https://github.com/Glandim/Raspagem-de-Dados/blob/master/salario.png)
+
 ![](https://github.com/Glandim/Raspagem-de-Dados/blob/master/alunos%20desfavorecidos.png)
